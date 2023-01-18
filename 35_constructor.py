@@ -78,8 +78,8 @@ print(c2.company)
 #NOTE: NON Mandatory parameters must come as the last parameter when you put in your parameters
 
 #This is not valid:
-def __init__(self, number, limit=2000, company):
-    pass #throwing pass just for example
+# def __init__(self, number, limit=2000, company):
+#     pass #throwing pass just for example
 
 #This is valid:
 def __init__(self, number, company, limit=2000):

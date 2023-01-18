@@ -10,6 +10,8 @@ people = ["Allen", "Michael", "John", "Ben"]
 
 print(people)
 
+print(len(people))
+
 print(people[0]) # first index
 
 print(people[1]) # second index

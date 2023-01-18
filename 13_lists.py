@@ -10,11 +10,11 @@ people = ["Allen", "Michael", "John", "Ben"]
 
 print(people[0]) # first index
 
-print(people[0]) # second index
+print(people[1]) # second index
 
-print(people[0]) # third index
+print(people[2]) # third index
 
-print(people[0]) # fourth index
+print(people[3]) # fourth index
 
 print(people[-1]) # first from right (last)
 

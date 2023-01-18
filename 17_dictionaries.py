@@ -27,7 +27,7 @@ print(friend["name"])
 print(friend.get("name"))
 
 #What will happen if we specify a non existing key ?
-print(friend["is_female"]) # Will crash the program if you mismatched the key name
+# print(friend["is_female"]) # Will crash the program if you mismatched the key name
 print(friend.get("is_female")) # Will try to find the key, and return the attached value, if does not find, will NOT crash your program, but will show - None
 
 #This could be one more example for a dictionary:

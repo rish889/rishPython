@@ -23,6 +23,7 @@ friend = {
     "weight" : 64.5
 }
 #See the value of some key:
+print(friend)
 print(friend["name"])
 print(friend.get("name"))
 
